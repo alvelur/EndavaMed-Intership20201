@@ -11,4 +11,4 @@ It will be divided in 4 areas, and this will help me to know the pending tasks a
 **Devops:**  Katacoda git and docker exercises. MEDIUM <br/>
 
 ## Author
-**Alejandro Velasquez Uribe*
+**Alejandro Velasquez Uribe**

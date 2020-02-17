@@ -4,4 +4,4 @@ It will be divided in 4 areas, and this will help me to know the pending tasks a
 **Front:**  Finish rock paper scissors js logic. LOW <br/>
 **Back:**  Factory pattern presentation. HIGH <br/>
 **Testing:**  Finish the Selenium course. HIGH <br/>
-**Devops:**  Katacoda exercises. MEDIUM <br/>
+**Devops:**  Katacoda git and docker exercises. MEDIUM <br/>

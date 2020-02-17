@@ -10,7 +10,7 @@ Finish rock paper scissors js logic. LOW <br/>
 ### **Back:**
 Factory pattern presentation. HIGH <br/>
 ### **Testing:**
-Finish the Selenium course. HIGH <br/>
+Finish the Selenium course. HIGH <br/> [Curso](https://www.youtube.com/playlist?list=PLgHCrivozIb3OPj61GmIIwXFqPrDI12vJ)
 ### **Devops:** 
 Katacoda git and docker exercises. MEDIUM <br/>
 

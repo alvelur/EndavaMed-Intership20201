@@ -5,13 +5,13 @@ In this repository I will post all exercises I have done during my internship in
 It will be divided in 4 areas, and this will help me to know the pending tasks and their priority: <br/>
 
 ## Areas
-## **Front:**
+### **Front:**
 Finish rock paper scissors js logic. LOW <br/>
-## **Back:**
+### **Back:**
 Factory pattern presentation. HIGH <br/>
-## **Testing:**
+### **Testing:**
 Finish the Selenium course. HIGH <br/>
-## **Devops:** 
+### **Devops:** 
 Katacoda git and docker exercises. MEDIUM <br/>
 
 ## Author

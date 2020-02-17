@@ -9,3 +9,6 @@ It will be divided in 4 areas, and this will help me to know the pending tasks a
 **Back:**  Factory pattern presentation. HIGH <br/>
 **Testing:**  Finish the Selenium course. HIGH <br/>
 **Devops:**  Katacoda git and docker exercises. MEDIUM <br/>
+
+## Author
+**Alejandro Velasquez Uribe*

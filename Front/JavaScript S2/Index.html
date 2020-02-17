@@ -1,0 +1,72 @@
+<html>
+<head>
+    <title>Endava Actividad Front</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+    <div align='center'>
+    <h1>Piedra, Papel o Tijera</h1>
+    </div>
+
+  <div class="flex">
+    <div>User 0</div>
+    <div>Pc 0</div>
+  </div>
+
+  <div align='center'>
+    <h2 id= 'primer elemento'>  Seleccionaste : </h2>
+</div>
+
+
+  <div align='center'>
+   <button name="button1" onclick="piedra()"> Piedra </button> 
+   <button name="button2" onclick="papel()"> Papel </button> 
+   <button name="button3" onclick="tijera()"> Tijera </button> 
+  </div>
+
+    <div align='center'>
+        <h2 id = 'segundo elemento'> Prueba tu suerte</h2>
+    </div>
+
+    <script type="text/javascript">
+     function piedra(){
+       console.log('seleccionaste piedra');
+       document.getElementById('primer elemento').textContent = "Seleccionaste Piedra";
+       var x = random();
+       if(x == 0) document.getElementById('primer elemento').textContent = "Seleccionaste Piedra";
+     }
+     function papel(){
+      console.log('seleccionaste papel');
+      document.getElementById('primer elemento').textContent = "Seleccionaste Papel";
+      random();
+     }
+     function tijera(){
+      console.log('seleccionaste tijera');
+      document.getElementById('primer elemento').textContent = "Seleccionaste Tijera";
+      random();
+     }
+     function random(){
+      var f = Math.floor(Math.random() * 3);
+      if(f == 0) document.getElementById('segundo elemento').textContent = "La maquina ha seleccionado piedra";
+      if(f == 1) document.getElementById('segundo elemento').textContent = "La maquina ha seleccionado tijera";
+      if(f == 2) document.getElementById('segundo elemento').textContent = "La maquina ha seleccionado papel";
+      return f;
+     }
+
+    </script>
+
+    <footer>
+      <p>Hecho por: Alejandro Velasquez</p>
+     
+    </footer>   
+ 
+    
+</body>
+
+
+
+
+
+
+</html>

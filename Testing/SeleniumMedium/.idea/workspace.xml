@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f34226cd-8f98-4353-b3a1-d8d5cfb8ef2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XxEGHoHQKY87KuAvg4ondy56bH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="TestNG.ParameterByMethod">
+    <configuration name="Ejemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.endava.medium.Ejemplo3" />
+      <module name="SeleniumMedium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endava.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMedium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endava.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.endava.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.endava.medium.DataProviderExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterByMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMedium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endava.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.endava.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.endava.medium.ParameterByMethod" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMedium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endava.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.endava.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.endava.medium.TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMedium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endava.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.endava.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.endava.medium.TestNGAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ParameterByMethod" />
+        <item itemvalue="TestNG.DataProviderExample" />
+        <item itemvalue="TestNG.TestNGAnnotations" />
+        <item itemvalue="TestNG.TestNG" />
+        <item itemvalue="Application.Ejemplo3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f34226cd-8f98-4353-b3a1-d8d5cfb8ef2b" name="Default Changelist" comment="" />
+      <created>1581979247367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581979247367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2488" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581979311654">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2488" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1581979311654" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1582051823170">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582051823170" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1582051823170">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582051823170" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1582051823169">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582051823169" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1582051823170">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582051823170" />
+    <state x="2261" y="148" key="SettingsEditor" timestamp="1581979812397">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2261" y="148" key="SettingsEditor/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1581979812397" />
+  </component>
+</project>
